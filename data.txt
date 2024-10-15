@@ -1,0 +1,11 @@
+punto: 2 comentario: hola soy Ami 
+punto: 2 comentario: hola 
+punto: 3 comentario: ami 
+punto: 2 comentario: hola 
+punto: 3 comentario: hola 
+punto: 2 comentario: juan 
+punto: 2 comentario: hola 
+punto: 3 comentario: juan le quiere a carlos 
+punto: 2 comentario: hola 
+punto: 4 comentario: juan 
+punto: 3 comentario: holi probando probando  
